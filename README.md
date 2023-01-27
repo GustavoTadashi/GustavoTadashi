@@ -1,7 +1,7 @@
 ### Olá! Eu Sou Gustavo Tadashi. 
 
 - 💻 Programador Full Stack em formação.
-- 🎓 Estudando Python
+- 🎓 Estudando HTML, CSS, JAVASCRIPT.
 <div align="center">
   <a href="https://github.com/GustavoTadashi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoTadashi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
