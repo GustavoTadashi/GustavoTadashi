@@ -1,6 +1,6 @@
 ### Olá! Eu Sou Gustavo Tadashi. 
 
-- 💻 Programador Full Stack em formação.
+- 💻 Desenvolvedor Front-end Junior.
 - 🎓 Estudando HTML, CSS, JAVASCRIPT.
 <div align="center">
   <a href="https://github.com/GustavoTadashi">
